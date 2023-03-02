@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+#resume-header{
+    height: 65vh;
+    padding-top: 1.2rem;
+    background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+#resume-header nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+#resume-header nav ul li{
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;
+}
+
+#resume-header nav ul li a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+
+#resume-header nav ul li a:hover{
+    color:lightgray;
+    border-bottom: 1px solid black;
+}
+
+#header-name{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 50px;
+    color: whitesmoke;
+}
+
+#header-name:hover{
+    color: lightcyan;
+}
+
+#profile-img{
+    
+}
